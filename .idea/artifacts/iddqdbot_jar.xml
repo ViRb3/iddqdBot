@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iddqdbot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/iddqdbot_jar</output-path>
+    <root id="archive" name="iddqdbot.jar">
+      <element id="module-output" name="iddqdbot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/opentest4j-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.12.4/lib/scala-library.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
